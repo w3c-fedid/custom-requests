@@ -1,6 +1,6 @@
 # Your Proposal
 
-This is a [Proposal](https://fedidcg.github.io/charter#proposals) of the [Federated Identity Community Group](https://fedidcg.github.io/) to extend FedCM to allow RPs to make custom requests to the IdP.
+This is a [Proposal](https://fedidcg.github.io/charter#proposals) of the [FedID CG](https://fedidcg.github.io/) to extend FedCM to allow RPs to make custom requests to the IdP.
 
 # Stage
 
