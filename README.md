@@ -7,7 +7,7 @@ This is a [Stage 1](https://github.com/w3c-fedid/Administration/blob/main/propos
 * @cbiesinger 
 
 # Participate
-- https://github.com/w3c-fedid/[your-proposal]/issues
+- https://github.com/w3c-fedid/custom-requests/issues
 
 # The Problem
 
