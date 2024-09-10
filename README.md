@@ -1,10 +1,6 @@
-# Your Proposal
+# Custom Requests
 
-This is a [Proposal](https://fedidcg.github.io/charter#proposals) of the [FedID CG](https://fedidcg.github.io/) to extend FedCM to allow RPs to make custom requests to the IdP.
-
-# Stage
-
-This is a [Stage 1](https://github.com/w3c-fedid/Administration/blob/main/proposals-CG-WG.md#stage-1) proposal.
+This is a [Stage 1](https://github.com/w3c-fedid/Administration/blob/main/proposals-CG-WG.md#stage-1) proposal of the [FedID CG](https://fedidcg.github.io/) to extend FedCM to allow RPs to make custom requests to the IdP.
 
 # Champions
 
