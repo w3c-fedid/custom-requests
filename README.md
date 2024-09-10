@@ -21,11 +21,11 @@ There is currently no mechanism that an IdP can use to use their own words to re
 
 # The Proposal
 
-The proposal is to:
+The proposal is to introduce:
 
-1. Allow IdPs to [continue](https://github.com/w3c-fedid/continuation/issues/1) and finish the request in a popup window
-2. Allow RPs to [select](https://github.com/w3c-fedid/continuation/issues/4) which attributes of the user's profile they are looking for and
-3. Allow RPs to pass a [custom request](https://github.com/w3c-fedid/continuation/issues/2) to IdPs
+1. The API affordance that allow RPs to pass [custom requests](https://github.com/w3c-fedid/continuation/issues/2) to IdPs
+1. The API affordance that allows IdPs to [continue and finish](https://github.com/w3c-fedid/continuation/issues/1) the request in a popup window
+1. The API affordance that allow RPs to [select](https://github.com/w3c-fedid/continuation/issues/4) which attributes of the user's profile they are looking for
 
 # Alternatives Considered
 
